@@ -35,4 +35,6 @@ I chose to proceed with RFE because it provided me with better accuracy.
 
 ## Class Imbalance Solution
 
-Telco dataset is highly imbalance. To fix this problem I performed ADASYN overasampling to the minority class.
+Telco dataset is highly imbalance. To fix this problem I performed ADASYN overasampling to the minority class. The picture below shows the classes distribution
+![alt text](classes.png)
+
