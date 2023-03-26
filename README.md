@@ -29,4 +29,10 @@ To evaluate the model results I used **precision, recall, accuracy, F1-score and
 
 Since I had 44 features to train the models I performed a feature selection algorithm. The methods I compared in order to pick the most suitable one were the following:
 - Principal Component Analysis
-- Recursive feature elimination
+- Recursive Feature Elimination
+
+I chose to proceed with RFE because it provided me with better accuracy.
+
+## Class Imbalance Solution
+
+Telco dataset is highly imbalance. To fix this problem I performed ADASYN overasampling to the minority class.
