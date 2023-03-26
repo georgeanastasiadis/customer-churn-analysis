@@ -24,3 +24,9 @@ The models used for this project are:
 - Random Forest
 
 To evaluate the model results I used **precision, recall, accuracy, F1-score and ROC_AUC curve.**
+
+## Feature Selection 
+
+Since I had 44 features to train the models I performed a feature selection algorithm. The methods I compared in order to pick the most suitable one were the following:
+- Principal Component Analysis
+- Recursive feature elimination
