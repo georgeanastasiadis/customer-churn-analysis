@@ -23,7 +23,7 @@ The models used for this project are:
 - Support Vector Machines
 - Random Forest
 
-To evaluate the model results I used **precision, recall, accuracy, F1-score and ROC_AUC curve.**
+To evaluate the model results I used **precision, recall, accuracy, F1-score and AUC score.**
 
 ## Feature Selection 
 
@@ -41,4 +41,12 @@ Telco dataset is highly imbalanced. To fix this problem I performed ADASYN overa
   <img width="300" src="img/classes.png" alt="Alt text" title="Classes Distribution">
 </p>
 
+## Results
 
+The table below shows the results for each classifiers when it comes to precision, recall, F1-Score and accuracy.
+
+<p align='center'>
+  <img width="500" src="img/results.JPG" alt="Alt text" title="Classes Distribution">
+</p>
+
+Logistic Regression outperformed all
