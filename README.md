@@ -49,4 +49,4 @@ The table below shows the results for each classifiers when it comes to precisio
   <img width="500" src="img/results.JPG" alt="Alt text" title="Classes Distribution">
 </p>
 
-Logistic Regression outperformed all
+Logistic Regression outperformed the other classifiers in all metrics.
