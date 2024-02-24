@@ -46,7 +46,17 @@ Telco dataset is highly imbalanced. To fix this problem I performed ADASYN overa
 The table below shows the results for each classifiers when it comes to precision, recall, F1-Score and accuracy.
 
 <p align='center'>
-  <img width="500" src="img/results.JPG" alt="Alt text" title="Classes Distribution">
+  <img width="500" src="img/results.JPG" alt="Alt text" title="Results">
 </p>
 
 Logistic Regression outperformed the other classifiers in all metrics.
+
+I also plotted the ROC Curve for each classifier. The blue line is for Logistic Regression, the orange line for Random Forest and the green line for SVC. 
+
+<p align='center'>
+  <img width="500" src="img/roc.PNG" alt="Alt text" title="ROC Curve">
+</p>
+
+
+
+
