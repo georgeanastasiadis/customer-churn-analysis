@@ -13,7 +13,7 @@ Data science project that predicts customers who are likely to churn using Telco
 
 ## EDA
 
-In this step I did data exploration to better understand the dataset.
+In this step I did data exploration to better understand the dataset. To check the results open the eda.ipynb
 
 
 ## Examined Models 
