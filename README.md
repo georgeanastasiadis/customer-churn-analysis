@@ -27,7 +27,7 @@ To evaluate the model results I used **precision, recall, accuracy, F1-score and
 
 ## Feature Selection 
 
-Since I had 44 features to train the models I performed a feature selection algorithm. The methods I compared in order to pick the most suitable one were the following:
+Since I had 44 features to train the models I performed a feature selection algorithm. The methods I compared in order to pick the most suitable ones were the following:
 - Principal Component Analysis
 - Recursive Feature Elimination
 
